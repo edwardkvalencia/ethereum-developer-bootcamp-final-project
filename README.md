@@ -6,5 +6,5 @@ Creating a project that tracks packages/containers as they depart from their pla
 
 <b>Why? </b>
 
-Our current supply chain information infrustructure is outdated and there is no single point of reliable information. Every party has their own database with thier own entries. This makes it difficult to rely on data that is handed off to you. Making it distributed, while giving access to the parties involved increases the validity of the information.
+Our current supply chain information infrastructure is outdated and there is no single point of reliable information. Every party has their own database with their own entries. This makes it difficult to rely on data that is handed off to you. Making it distributed, while giving access to the parties involved increases the validity of the information.
 
